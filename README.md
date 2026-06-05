@@ -1,5 +1,6 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=47484a&height=200&section=header&text=Giovanna%20Cristina&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Product • Business%20&descAlignY=60&descAlign=36&fontColor=FFFFFF"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=47484a&height=200&section=header&text=Giovanna%20Cristina&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Product%20%E2%80%A2%20Business&descAlignY=60&descAlign=36&fontColor=FFFFFF"/>
+</p>
 </p>
 
 
